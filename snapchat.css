@@ -1,0 +1,342 @@
+body{
+    background-color: #fffc00;
+}
+.hello{
+    background-color: #fffc00;
+    position: sticky !important;
+    top: 0;
+}
+
+.logo1{
+    height: 44px;
+    margin: 8px;
+    float: left;
+    margin: 10px;
+
+}
+.search input{
+    border-radius: 20px;
+    height: 40px;
+    width: 181px;
+    float: left;
+    margin: 10px;
+}
+.logo-srch{
+    margin-left: -180px;
+    height: 20px;
+    margin-top: 21px;
+}
+
+
+
+.logo11 img{
+    height: 30px;
+}
+.logo11{
+    float: left;
+    margin-left: 217px;
+}
+.logo11 h5{
+    font-size: 15px;
+    margin-left: -10px;
+}
+.logo22 img{
+    height: 30px;
+}
+.logo22{
+    float: left;
+    margin-left: 40px;
+}
+.logo22 h5{
+    font-size: 15px;
+    margin-left: -10px;
+}
+.logo33 img{
+    height: 30px;
+}
+.logo33{
+    float: left;
+    margin-left: 40px;
+}
+.logo33 h5{
+    font-size: 15px;
+    margin-left: -2px;
+}
+.logo44 img{
+    height: 30px;
+}
+.logo44{
+    float: left;
+    margin-left: 40px;
+}
+.logo44 h5{
+    font-size: 15px;
+    margin-left: -2px;
+}
+.logo55 img{
+    height: 30px;
+}
+.logo55{
+    float: left;
+    margin-left: 40px;
+}
+.logo55 h5{
+    font-size: 15px;
+    margin-left: -2px;
+}
+.dot9 img{
+    height: 20px;
+}
+.dot9 button{
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin-left: 280px;
+    border: 0px solid;
+    margin-top: 4px;
+    height: 36px;
+    width: 36px;
+    float: left;
+}
+
+
+.black11 button{
+    height: 32px;
+    width: 124px;
+    border-radius: 20px;
+    border: 0px solid;
+    background-color: black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.black11 h5{
+    font-size: 16px;
+    color: white;
+    margin-top: 5px;
+}
+.black22 button{
+    height: 32px;
+    width: 124px;
+    border-radius: 20px;
+    border: 0px solid;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+    
+}
+.black22 h5{
+    font-size: 16px;
+    color: white;
+    margin-top: 5px;
+}
+
+
+
+
+
+.main{
+    background-color: #fffc00;
+    width: 100%;
+    height: 700px;
+}
+.main1{
+    width: 40%;
+    height: 700px;
+    float: left;
+}
+.main2{
+    width: 60%;
+    height: 700px;
+    float: left;
+
+}
+.main1 h1{
+    font-family: Graphik,Helvetica,sans-serif;
+    max-width: 435px;
+    min-height: 258px;
+    font-size: 64px;
+    line-height: 86px;
+    margin-left: 169px; 
+    margin-top: 56px;   
+    font-weight: 600;
+    color: black;
+}
+.main2 img{
+    height: 660px;
+    width: 667px;
+    margin-top: -70px;
+}
+.line1 {
+    max-width: 402px;
+    min-height: 60px;
+    font-size: 24px;
+    line-height: 30px;
+    margin-left: 169px;
+    margin-top: -20px;
+}
+.bnew img{
+    height: 30px;
+    width: 33px;
+    margin-left: 173px;
+    margin-top: 10px;
+    float: left;
+}
+.ai img{
+    width: 30px;
+}
+.ai{
+    margin-left: 169px;
+    margin-top: 20px;
+    max-width: 427px;
+    min-height: 60px;
+    font-size: 24px;
+    line-height: 30px;
+}
+.b1{
+    height: 40px;
+    width: 222px;
+    margin-left: 165px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    padding-left: 20px;
+    position: relative;
+    
+}
+.img1{
+    height: 30px;
+    position: absolute;
+    margin-left: 182px;
+    filter: invert(98%) sepia(0%) saturate(2%) hue-rotate(214deg) brightness(106%) contrast(100%);
+    font-weight: 800;
+    z-index: 99;
+    margin-top: 8px;
+}
+.b2{
+    background-color: black;
+    height: 40px;
+    width: 109px;
+}
+.img2{
+    height: 40px;
+    margin-left: -9px;
+    margin-top: -3px;
+    
+}
+.or{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.divb1{
+    float: left;
+    margin-top: 17px;
+}
+.divb2{
+    float: left;
+    margin-left: 34px;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    height: 400px;
+    width: 100%;
+}
+.list1 li {
+    list-style-type: none;
+}
+.list2 li{
+    list-style-type: none; 
+}
+.list3 li{
+    list-style-type: none;    
+}
+.list4 li {
+    list-style-type: none;
+}
+.list5 li{
+    list-style-type : none;
+}
+.list1{
+    float: left;
+    width: 20%; 
+    margin: 20px;
+}
+.list2{
+    float: left;
+    width: 20%; 
+    margin: 20px;
+}
+.list3{
+    float: left;
+    width: 20%; 
+    margin: 20px;
+}
+.list4{
+    float: left;
+    width: 20%; 
+    margin: 20px;
+}
+.list5{
+    width: 40%;
+
+}
+
+
+.policy{
+    height: 105px;
+    width: 100%;
+    background-color: rgb(40, 37, 37);
+
+}
+.policy h5{
+    color: white;
+    font-size: 14px;
+    float: left;
+    width: 10%;
+    margin-top: 35px;
+    margin-left: 158px;
+
+}
+
+
+
+
+
+
+.black{
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    position: sticky;
+    bottom: 0;
+    
+}
+.bimg{
+    float: left;
+    margin-left: 350px;
+}
+.btext{
+    float: left;
+    margin-top: 12px;
+}
+.studs{
+    height: 40px;
+    filter: invert(94%) sepia(39%) saturate(1948%) hue-rotate(10deg) brightness(109%) contrast(106%);
+
+}
+.black h5{
+    color: white;
+
+}
